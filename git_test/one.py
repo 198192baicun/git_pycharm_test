@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # author：LJ
 # 日期：2022年11月28日
-# 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
+# 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
 import requests
 import sys
 
@@ -19,4 +19,5 @@ def mast():
 if __name__ == '__main__':
     print("hello world!")
     print("kgithub")
+    print("验证kgithub与github是否同步")
     mast()
